@@ -12,10 +12,16 @@
 ---
 
 ## 💻 Skills
-- **Languages:** Python  
+- **Languages:** Python,SQL
 - **Libraries:** NumPy, Pandas, Scikit-learn  
 - **Machine Learning:** SVM, Classification, Model Evaluation  
 - **NLP:** Transformers, Tokenization, Sentiment Analysis  
 - **Tools:** Git, GitHub  
+
+## 🌏 Goals
+Currently building a portfolio targeting Data Science and ML roles 
+in Japan. Open to relocation.
+## 📫 Contact
+kapoorshiva346@gmail.com
 
 
