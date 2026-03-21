@@ -8,7 +8,6 @@
 ## 🔭Projects Done 
 - 🇯🇵 Amazon Japan Sentiment Analysis using BERT  
 - 🎸 Guitar Chord Prediction using Machine Learning  
-- Improving NLP models and understanding transformer architectures  
 
 ---
 
