@@ -9,10 +9,7 @@
 - 🇯🇵 Amazon Japan Sentiment Analysis using BERT  
 - 🎸 Guitar Chord Prediction using Machine Learning
 - ⚡ Tokyo Grid Electricity Demand Forecaster
-XGBoost model trained on real TEPCO hourly grid data (2022–2024).
-- MAPE: 4.86% on 8,784 held-out test hours
-- Compared XGBoost vs Prophet vs Linear Regression
-- **Stack:** XGBoost · Plotly · Streamlit · Real TEPCO data
+
 
 ---
 
