@@ -9,6 +9,7 @@
 - 🇯🇵 Amazon Japan Sentiment Analysis using BERT  
 - 🎸 Guitar Chord Prediction using Machine Learning
 - ⚡ Tokyo Grid Electricity Demand Forecaster
+-  🛒 E-commerce Sales Analytics Dashboard
 
 
 ---
