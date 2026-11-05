@@ -1,14 +1,13 @@
 #  Shiva Kapoor👋  
 
 🎓 BSc in Applied Mathematical Computing  
-💡 Passionate about Machine Learning, NLP, and real-world problem solving  
 
 ---
 
 ## 🔭Projects Done 
-- 🇯🇵 Amazon Japan Sentiment Analysis using BERT  
+-  Amazon  Sentiment Analysis using BERT  
 - 🎸 Guitar Chord Prediction using Machine Learning
-- ⚡ Tokyo Grid Electricity Demand Forecaster
+- ⚡  Grid Electricity Demand Forecaster
 -  🛒 E-commerce Sales Analytics Dashboard
 
 
@@ -21,9 +20,6 @@
 - **NLP:** Transformers, Tokenization, Sentiment Analysis  
 - **Tools:** Git, GitHub  
 
-## 🌏 Goals
-Currently building a portfolio targeting Data Science and ML roles 
-in Japan. Open to relocation.
 ## 📫 Contact
 kapoorshiva346@gmail.com
 
